@@ -1,0 +1,488 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 xui-id="8947" tvg-id="" tvg-name="LIVE EVENT 1" tvg-logo="http://corner-tv.web.id:8080/images/cdb8dc415f149d5d5b55696d1999888b.png" group-title="Live Event",LIVE EVENT 1
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFKf6HfV14uGO7r5FwpOsDEY/ts
+#EXTINF:-1 xui-id="8321" tvg-id="" tvg-name="LIVE EVENT 2" tvg-logo="http://corner-tv.web.id:8080/images/cdb8dc415f149d5d5b55696d1999888b.png" group-title="Live Event",LIVE EVENT 2
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFFIugH7XDEtSVq0gvLZcuZg/ts
+#EXTINF:-1 xui-id="12856" tvg-id="" tvg-name="24/7 Upin & Ipin" tvg-logo="https://i.ibb.co/YRTfFf6/SGN-03-22-2022-1647937246295.png" group-title="24/7",24/7 Upin & Ipin
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFDUgOq9VwuqblGFxO6JUmUE/ts
+#EXTINF:-1 xui-id="12883" tvg-id="" tvg-name="24/7 Ejen Ali" tvg-logo="http://corner-tv.web.id:8080/images/271fd695689161734f41b905247ccfea.png" group-title="24/7",24/7 Ejen Ali
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFJWX-c2s0UjcwN0repGV9IE/ts
+#EXTINF:-1 xui-id="6212" tvg-id="" tvg-name="Baby Bus 24/7" tvg-logo="http://corner-tv.web.id:8080/images/d3b7721f98968828129b8460fb3ccd3c.png" group-title="24/7",Baby Bus 24/7
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFLskrWUitmhZJOhqR4XLVNU/ts
+#EXTINF:-1 xui-id="7028" tvg-id="" tvg-name="LARVA 24/7" tvg-logo="http://corner-tv.web.id:8080/images/e64ffea1da240bceed60efce4a895908.png" group-title="24/7",LARVA 24/7
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFPbiSusSTqP74OfutqLUc_I/ts
+#EXTINF:-1 xui-id="4750" tvg-id="" tvg-name="Mr. Bean 24/7" tvg-logo="http://corner-tv.web.id:8080/images/beb8a8b627a424f3ed66357b9ba553d4.png" group-title="24/7",Mr. Bean 24/7
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFBbqzZMZYxNAO8vHuMJymiI/ts
+#EXTINF:-1 xui-id="6220" tvg-id="" tvg-name="Oddbods 24/7" tvg-logo="http://corner-tv.web.id:8080/images/6260cc1701675fb5e81611314fffe1db.png" group-title="24/7",Oddbods 24/7
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFE1djLjr5Amd0zvTqBbLFoA/ts
+#EXTINF:-1 xui-id="7029" tvg-id="" tvg-name="PAW PATROL 24/7" tvg-logo="http://corner-tv.web.id:8080/images/4357eee8830de07566b3735c655659cd.png" group-title="24/7",PAW PATROL 24/7
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFC2O_ngMHFtRwKWzIjLZnH0/ts
+#EXTINF:-1 xui-id="13" tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="http://corner-tv.web.id:8080/images/ccbc4d5e866fe5a7b03dc30e61066ce6.png" group-title="INDONESIA",ANTV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFMt6ZgD36ybskHWt6yd_L0k/ts
+#EXTINF:-1 xui-id="7" tvg-id="BeritaSatu.MACAN" tvg-name="BERITA SATU" tvg-logo="http://corner-tv.web.id:8080/images/f099981f1bcccf085a73574fc1d7582c.png" group-title="INDONESIA",BERITA SATU
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFIUI00Qij28SdveQRcoNM5I/ts
+#EXTINF:-1 xui-id="6636" tvg-id="CNBCIndonesia.MACAN" tvg-name="CNBC INDONESIA" tvg-logo="http://corner-tv.web.id:8080/images/b403b7d088b9d975ea5c7625b2a0d87f.png" group-title="INDONESIA",CNBC INDONESIA
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFHBXvXdqgqdT118MtNnwRK8/ts
+#EXTINF:-1 xui-id="8" tvg-id="CNNIndonesia.MACAN" tvg-name="CNN INDONESIA" tvg-logo="http://corner-tv.web.id:8080/images/3e30ef6c5575c9f115ad292b44cbd422.png" group-title="INDONESIA",CNN INDONESIA
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFBRdoKrfyYjIZd-IgJ3vAnA/ts
+#EXTINF:-1 xui-id="15" tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="http://corner-tv.web.id:8080/images/da1fe92615488dff5cbd4eb42390eec3.png" group-title="INDONESIA",GTV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFFUBQzJeG14eleEeitrnNDc/ts
+#EXTINF:-1 xui-id="14" tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="http://corner-tv.web.id:8080/images/8fd4ba974038a30d9dfff478d0203229.png" group-title="INDONESIA",INDOSIAR
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFEdAeD1NIYBERT0FDL-18WQ/ts
+#EXTINF:-1 xui-id="18" tvg-id="iNewsTV.MACAN" tvg-name="INEWS" tvg-logo="http://corner-tv.web.id:8080/images/6cfea4ed235b81365a7b72373aa420f6.png" group-title="INDONESIA",INEWS
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFNZRlQIs1llAgvC5gKEqy9w/ts
+#EXTINF:-1 xui-id="9" tvg-id="KompasTv.MACAN" tvg-name="KOMPAS TV" tvg-logo="http://corner-tv.web.id:8080/images/7ef90cc5e80e8d48285d276af6ad4103.png" group-title="INDONESIA",KOMPAS TV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFC-iZeT_KkT1NBI_tXwErWc/ts
+#EXTINF:-1 xui-id="11617" tvg-id="" tvg-name="MENTARI TV" tvg-logo="http://corner-tv.web.id:8080/images/b06ade2a3177e0f6ef47632e99caf1bc.png" group-title="INDONESIA",MENTARI TV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFLcgT1bS29XlJe8c0a43qYE/ts
+#EXTINF:-1 xui-id="6635" tvg-id="MetroTV.MACAN" tvg-name="METRO TV" tvg-logo="http://corner-tv.web.id:8080/images/ea7c1816c4a7eed39d94292229212467.png" group-title="INDONESIA",METRO TV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFO8J6i3_fk9P0dR6lVZ6cl0/ts
+#EXTINF:-1 xui-id="10" tvg-id="MNCTV.MACAN" tvg-name="MNC TV" tvg-logo="http://corner-tv.web.id:8080/images/f0c7f8005f93d4d2b61b72389dcb56e7.png" group-title="INDONESIA",MNC TV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFAjQCHIqN3QbmUuUimHc9Zo/ts
+#EXTINF:-1 xui-id="11" tvg-id="NetTV.MACAN" tvg-name="NET TV" tvg-logo="http://corner-tv.web.id:8080/images/3b08c11475282dc209c3e59d2a08fcaa.png" group-title="INDONESIA",NET TV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFKVuDzpQJdajzQOeHpZEPO8/ts
+#EXTINF:-1 xui-id="7694" tvg-id="" tvg-name="MOJI TV" tvg-logo="https://i.ibb.co/V2D3fLp/SGN-08-24-2022-1661301046811.png" group-title="INDONESIA",MOJI TV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFJR2tcK2b_3sdxHEy0uHWzs/ts
+#EXTINF:-1 xui-id="6" tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="http://corner-tv.web.id:8080/images/76e0d78ea4893625ea43cd23898f6a8c.png" group-title="INDONESIA",RCTI
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFP69tLWF9rKKXbh8w677y3M/ts
+#EXTINF:-1 xui-id="16" tvg-id="RTV.MACAN" tvg-name="RTV" tvg-logo="http://corner-tv.web.id:8080/images/5cfd1cb70a92411089abd2da23029fef.png" group-title="INDONESIA",RTV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFHN5OLymckfYO_3gsPQd1Yo/ts
+#EXTINF:-1 xui-id="12" tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="http://corner-tv.web.id:8080/images/413f8aaf1cc5f75f5d2e2491535f8a16.png" group-title="INDONESIA",SCTV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFM1xVoOGgOVHwQwFXwKDd28/ts
+#EXTINF:-1 xui-id="2" tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="http://corner-tv.web.id:8080/images/62cb71ef18568e280a4bfac6fe31afc8.png" group-title="INDONESIA",TRANS 7
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFEffr-KMOLMhfFnDyUvvTZg/ts
+#EXTINF:-1 xui-id="1" tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="http://corner-tv.web.id:8080/images/7f1fe0cd6c40ba7403baff8eb56be62b.png" group-title="INDONESIA",TRANS TV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFIenz-WURzGo_G9fHIFDqM4/ts
+#EXTINF:-1 xui-id="19" tvg-id="TVOne.MACAN" tvg-name="TVOne" tvg-logo="http://corner-tv.web.id:8080/images/3fbbc14a62c85e0fd9791d2639c5c18e.png" group-title="INDONESIA",TVOne
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFAxhSDQqDOr2bfSp9LF-Fh8/ts
+#EXTINF:-1 xui-id="6157" tvg-id="" tvg-name="AL HIJRAH" tvg-logo="http://corner-tv.web.id:8080/images/22acb716c212c8409f881c6162b9efe5.png" group-title="RELIGI",AL HIJRAH
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFBk8Xx7R_884E9phghVhVM0/ts
+#EXTINF:-1 xui-id="367" tvg-id="AstroAura.my" tvg-name="Astro Aura" tvg-logo="http://corner-tv.web.id:8080/images/d19a0aadccc2fcb9e4764dc6e08544d3.png" group-title="MALAYSIA",Astro Aura
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFARCtkmf-3tnSOfmAYUCRq8/ts
+#EXTINF:-1 xui-id="6159" tvg-id="Astro Awani HD" tvg-name="Astro Awani" tvg-logo="http://corner-tv.web.id:8080/images/54f944addab6e972e0d6486c8d1714b4.png" group-title="MALAYSIA",Astro Awani
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFCxdQ1Wulbv4YCi-SmDsR30/ts
+#EXTINF:-1 xui-id="390" tvg-id="AstroBollyone.my" tvg-name="Astro Bollyone HD" tvg-logo="http://corner-tv.web.id:8080/images/8cfa032308d23a926095fee0e2ea6efa.png" group-title="INDIA",Astro Bollyone HD
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFBXSNQtMQglmGefG61y7fXE/ts
+#EXTINF:-1 xui-id="389" tvg-id="BOO" tvg-name="Astro BOO" tvg-logo="http://corner-tv.web.id:8080/images/b1541d5755eb31a40d8b4ce6192656d8.png" group-title="MALAYSIA",Astro BOO
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFB_aUWlDb1bcHNT9Hwm6RnY/ts
+#EXTINF:-1 xui-id="366" tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-logo="http://corner-tv.web.id:8080/images/cec6a85a8166f37eb4c576a6650ef771.png" group-title="MALAYSIA",Astro Citra
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFFD6F62Uqyf2ZBeltvW9Dhg/ts
+#EXTINF:-1 xui-id="5842" tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-logo="http://corner-tv.web.id:8080/images/034b3bf3448974986c2c7127384184f5.png" group-title="MALAYSIA",Astro Oasis
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFFWYdXDBv5HBzI531p50rkE/ts
+#EXTINF:-1 xui-id="364" tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-logo="http://corner-tv.web.id:8080/images/24eee25ed665fabc1e621a73b0feeede.png" group-title="MALAYSIA",Astro Prima
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFB2emnPA8CgzkW4MC5cHolw/ts
+#EXTINF:-1 xui-id="391" tvg-id="AstroRania.my" tvg-name="Astro Rania" tvg-logo="http://corner-tv.web.id:8080/images/6f48ec516f85df59c157bfb457ce5f7f.png" group-title="MALAYSIA",Astro Rania
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFDeouyfHAZiejLzA7IAgdTs/ts
+#EXTINF:-1 xui-id="362" tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="http://corner-tv.web.id:8080/images/bdfa6a76bbf5b07b46fb86d00933f415.png" group-title="MALAYSIA",Astro Ria
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFELh1QTfIqSGXbUYQ71pMIs/ts
+#EXTINF:-1 xui-id="365" tvg-id="AstroWarna.my" tvg-name="Astro warna" tvg-logo="http://corner-tv.web.id:8080/images/84113b6f9a8974168fea8aa72b97bbbf.png" group-title="MALAYSIA",Astro warna
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFE7HdUkr6ZcmLTr8PBJXoEo/ts
+#EXTINF:-1 xui-id="6155" tvg-id="Awesome" tvg-name="AWESOME TV" tvg-logo="http://corner-tv.web.id:8080/images/aee5cbf11b49de1f269a302bc0081129.png" group-title="MALAYSIA",AWESOME TV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFHgpBHGoDGBddLkoa59RHsc/ts
+#EXTINF:-1 xui-id="6734" tvg-id="ColorsHindi" tvg-name="Colors Hindi" tvg-logo="http://corner-tv.web.id:8080/images/d58a3fbcd6b0b24b9d5d1ae07ea5002a.png" group-title="INDIA",Colors Hindi
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFNguj8b0LoMDbIWwjptUbXo/ts
+#EXTINF:-1 xui-id="6544" tvg-id="IQIYI" tvg-name="IQIYI" tvg-logo="http://corner-tv.web.id:8080/images/c18e5c4467eca0201f8243c52015fb68.png" group-title="CHINA/TAIWAN",IQIYI
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFPM8FhPEemAda9lALEVjo8s/ts
+#EXTINF:-1 xui-id="6154" tvg-id="TV Okey" tvg-name="Okey TV" tvg-logo="http://corner-tv.web.id:8080/images/f28b7dd09275fc1ec6742352b81f55fc.png" group-title="MALAYSIA",Okey TV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFOZdhH6LkTP4KqDH50tjoL0/ts
+#EXTINF:-1 xui-id="5836" tvg-id="TV1.my" tvg-name="TV 1" tvg-logo="http://corner-tv.web.id:8080/images/bab38f5e76be6eb2617e11e6c8cb11d9.png" group-title="MALAYSIA",TV 1
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFC-uR_Cn8ZFjVSJjXD74pg0/ts
+#EXTINF:-1 xui-id="5837" tvg-id="TV2.my" tvg-name="TV 2" tvg-logo="http://corner-tv.web.id:8080/images/0719d38a1509b855936992c7fdc4d73a.png" group-title="MALAYSIA",TV 2
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFKGQjVYXmEdokBTmVjr_5j8/ts
+#EXTINF:-1 xui-id="5838" tvg-id="TV3.my" tvg-name="TV 3" tvg-logo="http://corner-tv.web.id:8080/images/465dde91167f1e84cb578b9cee453938.png" group-title="MALAYSIA",TV 3
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFKI7vHeVgHFCyd5WwFbgviA/ts
+#EXTINF:-1 xui-id="5839" tvg-id="TV9" tvg-name="TV 9" tvg-logo="http://corner-tv.web.id:8080/images/a2091c9e45e816ade3fc739e26cd596f.png" group-title="MALAYSIA",TV 9
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFBMUtagd-IUIQqqujuRStRI/ts
+#EXTINF:-1 xui-id="44" tvg-id="" tvg-name="&FLIX" tvg-logo="http://corner-tv.web.id:8080/images/40cb159e634f9921ccdb2f8601a3e6f1.png" group-title="MOVIES",&FLIX
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFOxLIisWXnuWU1vkrT0OpM8/ts
+#EXTINF:-1 xui-id="50" tvg-id="" tvg-name="&PRIVE" tvg-logo="http://corner-tv.web.id:8080/images/f6fd891ca307c4ab0cc2bd2f0c6518ea.png" group-title="MOVIES",&PRIVE
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFKaofocxPqE6laL-1yC7Ai0/ts
+#EXTINF:-1 xui-id="68" tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="http://corner-tv.web.id:8080/images/27a31eef2ba7a14619d36262a8e07b85.png" group-title="MOVIES",AXN
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFIM_tMxYSDtcmhhJC7Rvx7Y/ts
+#EXTINF:-1 xui-id="5995" tvg-id="BioskopIndonesia.MACAN" tvg-name="Bioskop Indonesia" tvg-logo="http://corner-tv.web.id:8080/images/18df021ae156d7b7328d65a6ed4ec0c9.png" group-title="MOVIES",Bioskop Indonesia
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFFGZXAPDI_fC61bDBeXRTi8/ts
+#EXTINF:-1 xui-id="59" tvg-id="CCM.MACAN" tvg-name="CELESTIAL CLASSIC MOVIES" tvg-logo="http://corner-tv.web.id:8080/images/f162477d1d575f81491732b11e8bca6a.png" group-title="MOVIES",CELESTIAL CLASSIC MOVIES
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFIAYvrugxX5MJa2zMjLtO50/ts
+#EXTINF:-1 xui-id="42" tvg-id="CelestialMovies.MACAN" tvg-name="CELESTIAL MOVIES" tvg-logo="http://corner-tv.web.id:8080/images/7e9ece7122afc5de882536ad469d8b8a.png" group-title="MOVIES",CELESTIAL MOVIES
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFDjI5JT0Hgg-m9LcUevuIxc/ts
+#EXTINF:-1 xui-id="56" tvg-id="CinemaWorld.MACAN" tvg-name="CINEMA WORLD" tvg-logo="http://corner-tv.web.id:8080/images/ddb8147f08587311935852ecb5f5523b.png" group-title="MOVIES",CINEMA WORLD
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFGSien5ZXGdnZnQD2Hc-skA/ts
+#EXTINF:-1 xui-id="41" tvg-id="CINEMAX.MACAN" tvg-name="CINEMAX" tvg-logo="http://corner-tv.web.id:8080/images/095ffc74ef3682a476a7b5268d0e045c.png" group-title="MOVIES",CINEMAX
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFCGrpYeMEj2AJazWDE_2ojI/ts
+#EXTINF:-1 xui-id="46" tvg-id="Flik" tvg-name="FLIK" tvg-logo="http://corner-tv.web.id:8080/images/beefbebb931f784f4c387bfb3d7f69f5.png" group-title="MOVIES",FLIK
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFAY0zGr3ghJF4MnfggKjhXQ/ts
+#EXTINF:-1 xui-id="52" tvg-id="Galaxy.MACAN" tvg-name="GALAXY" tvg-logo="http://corner-tv.web.id:8080/images/97eaa65b5376ea5a5d5ebce62b4ae650.png" group-title="MOVIES",GALAXY
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFPhbi5mBloTaw7qFTjlxKfg/ts
+#EXTINF:-1 xui-id="53" tvg-id="GalaxyPremium.id" tvg-name="GALAXY PREMIUM" tvg-logo="http://corner-tv.web.id:8080/images/56e353ead413ffec52459bf304cb6a1e.png" group-title="MOVIES",GALAXY PREMIUM
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFGG4Pc9xvd7cCSE1th_Ohxo/ts
+#EXTINF:-1 xui-id="37" tvg-id="HBOHD.MACAN" tvg-name="HBO" tvg-logo="http://corner-tv.web.id:8080/images/a8392de50142c97680c203c158a221a8.png" group-title="MOVIES",HBO
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFJKrsm7puRwSgp8TfxG9hz4/ts
+#EXTINF:-1 xui-id="39" tvg-id="HBOFamilyHD.MACAN" tvg-name="HBO FAMILY" tvg-logo="http://corner-tv.web.id:8080/images/686335efae43441fe11db7bbb64c40c6.png" group-title="MOVIES",HBO FAMILY
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFH1jTiwPb7rwKxyIfeRYvb0/ts
+#EXTINF:-1 xui-id="38" tvg-id="HBOHitsHD.MACAN" tvg-name="HBO HITS" tvg-logo="http://corner-tv.web.id:8080/images/e5bc20696acae500987654334ab59e44.png" group-title="MOVIES",HBO HITS
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFFderA0cbP0Rji5u4R28zxQ/ts
+#EXTINF:-1 xui-id="40" tvg-id="HBOSignatureHD.MACAN" tvg-name="HBO SIGNATURE" tvg-logo="http://corner-tv.web.id:8080/images/29249d86311b9501cf4d2d87ad5571ec.png" group-title="MOVIES",HBO SIGNATURE
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFE9tvFtsZgrZe1ywBWVU9sw/ts
+#EXTINF:-1 xui-id="4425" tvg-id="Hits.MACAN" tvg-name="HITS" tvg-logo="http://corner-tv.web.id:8080/images/ea16683c3e4a8c13395d5cd3317612d1.png" group-title="MOVIES",HITS
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFOQMNl38GlkyXwyo79pGVE8/ts
+#EXTINF:-1 xui-id="57" tvg-id="HITSMovies.MACAN" tvg-name="HITS MOVIES" tvg-logo="http://corner-tv.web.id:8080/images/58ee515ed06a61a673bb4923353e4348.png" group-title="MOVIES",HITS MOVIES
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFO1EsAT3zGINW3H3QcCIr2s/ts
+#EXTINF:-1 xui-id="47" tvg-id="IMC.MACAN" tvg-name="IMC" tvg-logo="http://corner-tv.web.id:8080/images/255983587374742a5788b237ca845290.png" group-title="MOVIES",IMC
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFMayLsv7JgAF7XzZPy6KBHs/ts
+#EXTINF:-1 xui-id="62" tvg-id="KIX.MACAN" tvg-name="KIX" tvg-logo="http://corner-tv.web.id:8080/images/51bbff5d53079e4e61ae8922b744783d.png" group-title="MOVIES",KIX
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFH6V5WIwrOUubegPeVlrJqg/ts
+#EXTINF:-1 xui-id="60" tvg-id="mycinema.MACAN" tvg-name="MY CINEMA" tvg-logo="http://corner-tv.web.id:8080/images/0c8feca361f9b1675b1d7c236a5cfe32.png" group-title="MOVIES",MY CINEMA
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFEjjaEJ8FaM8pcY4DWtFbFU/ts
+#EXTINF:-1 xui-id="61" tvg-id="mycinemaasia.MACAN" tvg-name="MY CINEMA ASIA" tvg-logo="http://corner-tv.web.id:8080/images/fb193f834dd7f1149e8c2a7b86d11515.png" group-title="MOVIES",MY CINEMA ASIA
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFKvSQsbvCmwLVFLMchu6seE/ts
+#EXTINF:-1 xui-id="4774" tvg-id="myfamilychannel.MACAN" tvg-name="My Family Channel" tvg-logo="http://corner-tv.web.id:8080/images/2e9fb7339e31cab5c4c2d00a813b2e62.png" group-title="MOVIES",My Family Channel
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFJHlZ7ZgC2ZktPIm1td1pdw/ts
+#EXTINF:-1 xui-id="4412" tvg-id="Paramount.MACAN" tvg-name="Paramount" tvg-logo="http://corner-tv.web.id:8080/images/7b7da3060481e5b893aa9a0d987b75dd.png" group-title="MOVIES",Paramount
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFGIEe_FqC-TA8ABz7F8TiXk/ts
+#EXTINF:-1 xui-id="58" tvg-id="SCM.MACAN" tvg-name="STAR CHINESE MOVIES" tvg-logo="http://corner-tv.web.id:8080/images/8850eb1f4b746e359e4cd179f3e0bf8c.png" group-title="MOVIES",STAR CHINESE MOVIES
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFOHAVv3up6jFJeExZu4LZPI/ts
+#EXTINF:-1 xui-id="51" tvg-id="" tvg-name="STAR MOVIES" tvg-logo="http://corner-tv.web.id:8080/images/8bda79867e1da54b9940ecfbaf366668.png" group-title="MOVIES",STAR MOVIES
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFJUGDviQDCg73cvKd1uxm9Q/ts
+#EXTINF:-1 xui-id="4770" tvg-id="STAR Movies Select HD" tvg-name="STAR MOVIES SELECT" tvg-logo="http://corner-tv.web.id:8080/images/8bda79867e1da54b9940ecfbaf366668.png" group-title="MOVIES",STAR MOVIES SELECT
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFHSvGeujIEpk38BXsUjtZW8/ts
+#EXTINF:-1 xui-id="48" tvg-id="Thrill.MACAN" tvg-name="THRILL" tvg-logo="http://corner-tv.web.id:8080/images/11e083bb4213764f7278c43b699ab671.png" group-title="MOVIES",THRILL
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFDW0aoKD7TNDwoX3qCGqy1k/ts
+#EXTINF:-1 xui-id="49" tvg-id="TVNMovies.MACAN" tvg-name="TVN MOVIES" tvg-logo="http://corner-tv.web.id:8080/images/5e6022a9ff484e113e3d8cdfa8159822.png" group-title="MOVIES",TVN MOVIES
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFPe5MhaaOCRzK0rEQp-T8FY/ts
+#EXTINF:-1 xui-id="45" tvg-id="WarnerTV.MACAN" tvg-name="WARNER TV" tvg-logo="http://corner-tv.web.id:8080/images/4a35ac54e77f857bd770e6e0a5c80363.png" group-title="MOVIES",WARNER TV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFIHc20PvGUGuhEJ-G_6U1wM/ts
+#EXTINF:-1 xui-id="6733" tvg-id="ZeeTV.MACAN" tvg-name="Zee Bioskop" tvg-logo="http://corner-tv.web.id:8080/images/3bb9ba6d4b92b3375f75bbbf8186a6ee.png" group-title="MOVIES",Zee Bioskop
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFFsmlIbmAHIauaanmU16kAQ/ts
+#EXTINF:-1 xui-id="113" tvg-id="Animax.MACAN" tvg-name="ANIMAX" tvg-logo="http://corner-tv.web.id:8080/images/dcc5a73a685b9e252d285855140ddb7a.png" group-title="KIDS",ANIMAX
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFIQk4LIA9B196IqaJfZZQuA/ts
+#EXTINF:-1 xui-id="114" tvg-id="Aniplus.id" tvg-name="ANIPLUS" tvg-logo="http://corner-tv.web.id:8080/images/9daa52d548b3211e85635346a8ff75a8.png" group-title="KIDS",ANIPLUS
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFJqS34tNvQUO1gAOI3RVxRg/ts
+#EXTINF:-1 xui-id="115" tvg-id="BabyFirst.MACAN" tvg-name="Babyfirst" tvg-logo="http://corner-tv.web.id:8080/images/8ee6365a45f6f3903549cfcad32537f2.png" group-title="KIDS",Babyfirst
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFP5CsjjDpf3c013vDDoNANI/ts
+#EXTINF:-1 xui-id="120" tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="http://corner-tv.web.id:8080/images/de4e1d8f0ebd4a0f8f0810320d204124.png" group-title="KIDS",Boomerang
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFMn0rX5OeC8cwLDeUDT_-gk/ts
+#EXTINF:-1 xui-id="111" tvg-id="CartoonNetwork.MACAN" tvg-name="CARTOON NETWORK" tvg-logo="http://corner-tv.web.id:8080/images/db57bbc2aaffce678caceaaeb6ea5c83.png" group-title="KIDS",CARTOON NETWORK
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFLUk5Jooly5aQkJBTY4ub2M/ts
+#EXTINF:-1 xui-id="361" tvg-id="AstroCeria.my" tvg-name="CERIA" tvg-logo="http://corner-tv.web.id:8080/images/f0b77c34dc00e65b5e8146d948479119.png" group-title="KIDS",CERIA
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFGKGMqqwBXvGLpMt6Ow_upk/ts
+#EXTINF:-1 xui-id="400" tvg-id="Dreamworks.MACAN" tvg-name="Dream Works" tvg-logo="http://corner-tv.web.id:8080/images/299c05b81feb77223b5982664cde90be.png" group-title="KIDS",Dream Works
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFCnJkNaexvpFRqP5uqeopvU/ts
+#EXTINF:-1 xui-id="4410" tvg-id="NickelodeonJr.MACAN" tvg-name="Nick Junior" tvg-logo="http://corner-tv.web.id:8080/images/5d6ff1e602dee52625aaf5e605fb589a.png" group-title="KIDS",Nick Junior
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFO0vCrHmGggT4CHB1OAFENI/ts
+#EXTINF:-1 xui-id="4409" tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon" tvg-logo="http://corner-tv.web.id:8080/images/aebf64cf1837a10f1457ebd669c95f6c.png" group-title="KIDS",Nickelodeon
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFCLa1d2tuL0y2lHqmlX-oio/ts
+#EXTINF:-1 xui-id="74" tvg-id="" tvg-name="AL JAZEERA" tvg-logo="http://corner-tv.web.id:8080/images/c0c72e37ad73b42b62993cc0370d7b7d.png" group-title="NEWS INTERNATIONAL",AL JAZEERA
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFBB_4BP_E23mYkgM0WOVjNk/ts
+#EXTINF:-1 xui-id="5826" tvg-id="" tvg-name="Bloomberg" tvg-logo="http://corner-tv.web.id:8080/images/cf6217b662f4f388a980fb430a16ca38.png" group-title="NEWS INTERNATIONAL",Bloomberg
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFEJn5uerKkGyehpaiiKJ3D0/ts
+#EXTINF:-1 xui-id="4775" tvg-id="" tvg-name="Channel News Asia" tvg-logo="http://corner-tv.web.id:8080/images/fc1c2d6e29545d1783f0aa0c641d999c.png" group-title="NEWS INTERNATIONAL",Channel News Asia
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFIOe3EjX8ACxEXz4guAOGNQ/ts
+#EXTINF:-1 xui-id="5830" tvg-id="" tvg-name="CNN International" tvg-logo="http://corner-tv.web.id:8080/images/fe1c3b0c383f2fb12c235e2b16045f7e.png" group-title="NEWS INTERNATIONAL",CNN International
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFGxe5BX66-wH_HGlyIIGzqE/ts
+#EXTINF:-1 xui-id="5829" tvg-id="" tvg-name="DW English" tvg-logo="http://corner-tv.web.id:8080/images/122ca7dfa8cbad0bf3e6aac2109a3cf8.png" group-title="NEWS INTERNATIONAL",DW English
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFNpNWdjT8iFE5CzJlhJ8Jkg/ts
+#EXTINF:-1 xui-id="6736" tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://i.ibb.co/vvcySyV/SGN-06-05-2022-1654407318824.png" group-title="NEWS INTERNATIONAL",FOX NEWS
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFChiptszgWOfllmB29bvWmc/ts
+#EXTINF:-1 xui-id="5221" tvg-id="" tvg-name="KBS WORLD" tvg-logo="http://corner-tv.web.id:8080/images/72cc936ca39a9d868c533dd57ea9e2ae.png" group-title="NEWS INTERNATIONAL",KBS WORLD
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFER3IeqWxT0pAZLBhj2nFfw/ts
+#EXTINF:-1 xui-id="5996" tvg-id="" tvg-name="Sea Today" tvg-logo="http://corner-tv.web.id:8080/images/8e2983b0ff2f4e3b4e26ac8bcc1f0ff3.png" group-title="NEWS INTERNATIONAL",Sea Today
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFBD5QPAkP-8JgeT7FVP_U2s/ts
+#EXTINF:-1 xui-id="5825" tvg-id="" tvg-name="TRT World" tvg-logo="http://corner-tv.web.id:8080/images/b69d6fc8629e3229f14897378a4a3c15.png" group-title="NEWS INTERNATIONAL",TRT World
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFOREpBFJDMI1XIx5fHTUYK0/ts
+#EXTINF:-1 xui-id="4428" tvg-id="" tvg-name="ARIRANG" tvg-logo="https://i.ibb.co/ykm1ppp/arirang-home-tv.png" group-title="ENTERTAINMENT",ARIRANG
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFPFVHRo0VTuj4yL3jJtBpmo/ts
+#EXTINF:-1 xui-id="5803" tvg-id="" tvg-name="BBC LIFESTYLE" tvg-logo="http://corner-tv.web.id:8080/images/7fc5751e361d2838b9f3440d5d457999.png" group-title="ENTERTAINMENT",BBC LIFESTYLE
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFI60vtUa7UILs5R8yEp_hMs/ts
+#EXTINF:-1 xui-id="6143" tvg-id="DuniaLain.MACAN" tvg-name="Dunia Lain" tvg-logo="http://corner-tv.web.id:8080/images/fb4724de7b2a665593088c6b719a1681.png" group-title="ENTERTAINMENT",Dunia Lain
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFGDGvQVZjZTvGvT83k-7qew/ts
+#EXTINF:-1 xui-id="4452" tvg-id="KPlus.id" tvg-name="K+" tvg-logo="http://corner-tv.web.id:8080/images/37175206674de3bfdc5dcdc8d70f578b.png" group-title="ENTERTAINMENT",K+
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFPuaPra5_zT31ri-skGrrEU/ts
+#EXTINF:-1 xui-id="6901" tvg-id="Lifetime.MACAN" tvg-name="Lifetime" tvg-logo="http://corner-tv.web.id:8080/images/6312d8975246a680d397d551dd277ea0.png" group-title="ENTERTAINMENT",Lifetime
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFHbRSIm02FZLwwvbfLXiNUs/ts
+#EXTINF:-1 xui-id="4408" tvg-id="" tvg-name="NHK WORLD" tvg-logo="https://i.ibb.co/NCgFhsD/nhk-world-jp-home-tv.png" group-title="ENTERTAINMENT",NHK WORLD
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFJ6L6CQ2W5X8941TreTzjhU/ts
+#EXTINF:-1 xui-id="118" tvg-id="BlueAntEntertainment.id" tvg-name="Rock Entertainment" tvg-logo="http://corner-tv.web.id:8080/images/0cacd68f0833a05b45cf596e19a16a0d.png" group-title="ENTERTAINMENT",Rock Entertainment
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFN-ENYhNQGHsNBZtz_YPEKE/ts
+#EXTINF:-1 xui-id="119" tvg-id="BlueAntEntertainment.id" tvg-name="Rock Extreme" tvg-logo="http://corner-tv.web.id:8080/images/35a3f372e4e38e24061d6e140bf16f57.png" group-title="ENTERTAINMENT",Rock Extreme
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFBrOCoWQoqLJjChok5webyk/ts
+#EXTINF:-1 xui-id="4518" tvg-id="GEMChannel.id" tvg-name="SONY GEM" tvg-logo="http://corner-tv.web.id:8080/images/bd35452de240fe39f8c9fd1c6e99b0bd.png" group-title="ENTERTAINMENT",SONY GEM
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFISH_a8H7gODvpg8a3j1C3E/ts
+#EXTINF:-1 xui-id="4517" tvg-id="SonyOneHD.MACAN" tvg-name="SONY ONE" tvg-logo="http://corner-tv.web.id:8080/images/df58383ae319e93ea0fad2e3363eb2a2.png" group-title="ENTERTAINMENT",SONY ONE
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFBsZuUj1QLRmmPNLS5O1eWc/ts
+#EXTINF:-1 xui-id="4418" tvg-id="TVN.MACAN" tvg-name="TVN" tvg-logo="http://corner-tv.web.id:8080/images/e599410cc6f5a83703cc697f6a1155bb.png" group-title="ENTERTAINMENT",TVN
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFMSzhqykDQBx9JWVqE8WOgk/ts
+#EXTINF:-1 xui-id="374" tvg-id="AnimalPlanet.MACAN" tvg-name="ANIMAL PLANET" tvg-logo="http://corner-tv.web.id:8080/images/fc4d54545cf0c290cb1298fb7c2b9890.png" group-title="KNOWLEDGE",ANIMAL PLANET
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFOec5Y3Rll6PZBpkPzYknf8/ts
+#EXTINF:-1 xui-id="112" tvg-id="AsianFoodChannel.MACAN" tvg-name="Asian Food Channel" tvg-logo="http://corner-tv.web.id:8080/images/5eff4f9159e8c134cf9cfb78856f9014.png" group-title="KNOWLEDGE",Asian Food Channel
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFIwJjfqat8IETLobJT28siA/ts
+#EXTINF:-1 xui-id="6410" tvg-id="BBCEarth.MACAN" tvg-name="BBC EARTH" tvg-logo="http://corner-tv.web.id:8080/images/44b84e8f0fdf1203eb7c56dc0baba2ed.png" group-title="KNOWLEDGE",BBC EARTH
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFEa9SrUO_kneWLJjrbUsPKg/ts
+#EXTINF:-1 xui-id="4422" tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://i.ibb.co/LYbyBKp/cgtn-documentary-home-tv.png" group-title="KNOWLEDGE",CGTN DOCUMENTARY
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFGEPv3yYk-Mv4ODKaKM6VAM/ts
+#EXTINF:-1 xui-id="396" tvg-id="CrimeInvestigation.MACAN" tvg-name="Crime Investigation" tvg-logo="http://corner-tv.web.id:8080/images/276bc7045e41822ca3ad4cd48afc4996.png" group-title="KNOWLEDGE",Crime Investigation
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFI88BYWLHxrYMbY0fbGH6ws/ts
+#EXTINF:-1 xui-id="4768" tvg-id="Discovery Asia" tvg-name="DISCOVERY ASIA" tvg-logo="http://corner-tv.web.id:8080/images/2167e5653857c5b7b7d5164b3c426c73.png" group-title="KNOWLEDGE",DISCOVERY ASIA
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFLGzqPlND4YtpD2V3ukVwDc/ts
+#EXTINF:-1 xui-id="394" tvg-id="DiscoveryChannel.MACAN" tvg-name="Discovery Channel" tvg-logo="http://corner-tv.web.id:8080/images/73f73db079c6ad8999f2a0e64cbbcddf.png" group-title="KNOWLEDGE",Discovery Channel
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFBZxc-qJHOqBiya1vRg38sU/ts
+#EXTINF:-1 xui-id="6365" tvg-id="DMAX" tvg-name="DMAX" tvg-logo="http://corner-tv.web.id:8080/images/05a4d535fa11e3da86d4be73c32b8cd3.png" group-title="KNOWLEDGE",DMAX
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFF609p8mzNbJOx-HuOI3Rzo/ts
+#EXTINF:-1 xui-id="405" tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="http://corner-tv.web.id:8080/images/32908c65354d5b21bbe4eca02610f30f.png" group-title="KNOWLEDGE",HGTV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFEnsjlE-xN3L60SRWvx3U-g/ts
+#EXTINF:-1 xui-id="406" tvg-id="HistoryChannel.id" tvg-name="HISTORY" tvg-logo="http://corner-tv.web.id:8080/images/9459e591d6f834b3f52d0b1d1f84724e.png" group-title="KNOWLEDGE",HISTORY
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFD7QnrRiISk9dqsqrs4Y11Y/ts
+#EXTINF:-1 xui-id="4390" tvg-id="" tvg-name="LOVE NATURE" tvg-logo="http://corner-tv.web.id:8080/images/120f3d7b31d1b82ada7adaecd96d76f4.png" group-title="KNOWLEDGE",LOVE NATURE
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFEAZxJtlxSpjfA8ly4fjK_c/ts
+#EXTINF:-1 xui-id="373" tvg-id="NationalGeographicWild.MACAN" tvg-name="NAT GEO WILD" tvg-logo="http://corner-tv.web.id:8080/images/d49b21086915715862d843ebeb6563a8.png" group-title="KNOWLEDGE",NAT GEO WILD
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFOSF3Yuycgbg_H1yAXvGhb0/ts
+#EXTINF:-1 xui-id="372" tvg-id="NationalGeographicChannel.MACAN" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://corner-tv.web.id:8080/images/7e7894601a0334a00fe26d756063a6c9.png" group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFHAhzZ92W5QAo2B1ZcfjVtE/ts
+#EXTINF:-1 xui-id="4389" tvg-id="" tvg-name="Pluto TV Animals" tvg-logo="http://corner-tv.web.id:8080/images/2a82bb855975dd265a54d36af756f395.png" group-title="KNOWLEDGE",Pluto TV Animals
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFHvquAxVh6JNxmBD8l_FmwY/ts
+#EXTINF:-1 xui-id="6013" tvg-id="" tvg-name="Smithsonian" tvg-logo="http://corner-tv.web.id:8080/images/584bc3d8908e718f2127e002a1a1fb0f.png" group-title="KNOWLEDGE",Smithsonian
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFMj41G-eFUDOtoMuhko5AEI/ts
+#EXTINF:-1 xui-id="4417" tvg-id="TLC.MACAN" tvg-name="TLC" tvg-logo="http://corner-tv.web.id:8080/images/c59556450a598048dd2251ceabb6bec7.png" group-title="KNOWLEDGE",TLC
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFHfdB84-Rmxwqy1s6aYxRgs/ts
+#EXTINF:-1 xui-id="4387" tvg-id="" tvg-name="Wired 2 Fish" tvg-logo="https://i.ibb.co/0JYLZwk/SGN-03-15-2022-1647332657640.png" group-title="KNOWLEDGE",Wired 2 Fish
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFK0W3Cf-mjTOFFgIPNQDuN0/ts
+#EXTINF:-1 xui-id="8611" tvg-id="" tvg-name="IZZAH TV" tvg-logo="http://corner-tv.web.id:8080/images/d469ee7f390a4729c3da156d71ca110a.png" group-title="RELIGI",IZZAH TV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFLRVtQN2SQXXti8Ftc3UeFo/ts
+#EXTINF:-1 xui-id="7605" tvg-id="" tvg-name="Rodja TV" tvg-logo="http://corner-tv.web.id:8080/images/5dc7b9fdbce9d5142745cc592df0f69f.png" group-title="RELIGI",Rodja TV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFK6VmemBjxpSevkZQk64xiE/ts
+#EXTINF:-1 xui-id="6732" tvg-id="" tvg-name="Tawaf TV" tvg-logo="http://corner-tv.web.id:8080/images/95f15ef2d176087b0f5dc96ed113443e.png" group-title="RELIGI",Tawaf TV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFHVTEf9heEIW9CBogM5Q02k/ts
+#EXTINF:-1 xui-id="6287" tvg-id="" tvg-name="Wesal TV" tvg-logo="http://corner-tv.web.id:8080/images/205504f464c8e3fef2cdd85cfd5f1315.png" group-title="RELIGI",Wesal TV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFGcTbAlOdRRl9ysBTOT2tsc/ts
+#EXTINF:-1 xui-id="5833" tvg-id="" tvg-name="MTV" tvg-logo="http://corner-tv.web.id:8080/images/dd71e8c2ce4810310143b2adf2f0a3e7.png" group-title="MUSIC",MTV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFABALNl_nleiUd9VR-vVQ2E/ts
+#EXTINF:-1 xui-id="4440" tvg-id="" tvg-name="MTV BIGGEST POP" tvg-logo="http://corner-tv.web.id:8080/images/dd71e8c2ce4810310143b2adf2f0a3e7.png" group-title="MUSIC",MTV BIGGEST POP
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFG_aN4jaiVJWL0hrQtA_MIU/ts
+#EXTINF:-1 xui-id="8612" tvg-id="" tvg-name="MTV BLOCK PARTY" tvg-logo="http://corner-tv.web.id:8080/images/dd71e8c2ce4810310143b2adf2f0a3e7.png" group-title="MUSIC",MTV BLOCK PARTY
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFCTfuMDMBzYdFN-3GzNuIkQ/ts
+#EXTINF:-1 xui-id="8614" tvg-id="" tvg-name="MTV YO!" tvg-logo="http://corner-tv.web.id:8080/images/dd71e8c2ce4810310143b2adf2f0a3e7.png" group-title="MUSIC",MTV YO!
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFDCoWqSmBMO2ShmB9MGv5nk/ts
+#EXTINF:-1 xui-id="8615" tvg-id="" tvg-name="MUSIC TOP" tvg-logo="http://corner-tv.web.id:8080/images/81f9407cf4d20c0d8e6913ff9f05750f.png" group-title="MUSIC",MUSIC TOP
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFDBryA04DLzpi6jatItCsxY/ts
+#EXTINF:-1 xui-id="4457" tvg-id="" tvg-name="MUSIC PLUS" tvg-logo="http://corner-tv.web.id:8080/images/ce40f1f07b3b064a28daa1ff3f7a186c.png" group-title="MUSIC",MUSIC PLUS
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFNkGTYsaV37lqhV5Z07D1yg/ts
+#EXTINF:-1 xui-id="4956" tvg-id="" tvg-name="THE K-POP" tvg-logo="http://corner-tv.web.id:8080/images/aef56bf53f2d9cbf4a8fd2022c69e573.png" group-title="MUSIC",THE K-POP
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFFU0nJOR1qTgct9ocI30Sz8/ts
+#EXTINF:-1 xui-id="384" tvg-id="Arena.id" tvg-name="ARENA 1" tvg-logo="http://corner-tv.web.id:8080/images/8f74e4d4a1b6b5485ad121cfbabed482.png" group-title="SPORT",ARENA 1
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFKsq5pV6RdJmq1hmVH5FrBI/ts
+#EXTINF:-1 xui-id="385" tvg-id="Arena2.id" tvg-name="ARENA 2" tvg-logo="http://corner-tv.web.id:8080/images/8f74e4d4a1b6b5485ad121cfbabed482.png" group-title="SPORT",ARENA 2
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFKvEPIOhzF-cSDd4JoFc_q4/ts
+#EXTINF:-1 xui-id="4377" tvg-id="ASSP1.my" tvg-name="ASSP 1" tvg-logo="http://corner-tv.web.id:8080/images/1f29acd12ccf3ad2be7ad44c779fcc2a.png" group-title="SPORT",ASSP 1
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFF5nkQbgzHhsrc0PUx0KzqM/ts
+#EXTINF:-1 xui-id="377" tvg-id="ASSP2.my" tvg-name="ASSP 2" tvg-logo="http://corner-tv.web.id:8080/images/fbcb4cefabbc38a1e8515be307c299a6.png" group-title="SPORT",ASSP 2
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFMVIszpbbLxPAKEsLV1KWLY/ts
+#EXTINF:-1 xui-id="378" tvg-id="ASSP3.my" tvg-name="ASSP 3" tvg-logo="http://corner-tv.web.id:8080/images/a325ec830501503436e78c449962ba24.png" group-title="SPORT",ASSP 3
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFA0CHginEOil1XL_yf19meI/ts
+#EXTINF:-1 xui-id="11612" tvg-id="" tvg-name="LIVE EVENT 3" tvg-logo="http://corner-tv.web.id:8080/images/cdb8dc415f149d5d5b55696d1999888b.png" group-title="Live Event",LIVE EVENT 3
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFEGZxvwhF-2ILekOOsOJJdY/ts
+#EXTINF:-1 xui-id="379" tvg-id="ASSP4.my" tvg-name="ASSP 4" tvg-logo="http://corner-tv.web.id:8080/images/618d0a7955b6ad846ae24669d1cf3879.png" group-title="SPORT",ASSP 4
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFOHg19jNJH6kG5EuPXH55Gc/ts
+#EXTINF:-1 xui-id="11614" tvg-id="" tvg-name="LIVE EVENT 4" tvg-logo="http://corner-tv.web.id:8080/images/cdb8dc415f149d5d5b55696d1999888b.png" group-title="Live Event",LIVE EVENT 4
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFHezyrdrtnDkaHg3BuLHH3k/ts
+#EXTINF:-1 xui-id="380" tvg-id="ASSP5.my" tvg-name="ASSP 5" tvg-logo="http://corner-tv.web.id:8080/images/a1742b8ac74d34cec3f7f0fbe1b30b88.png" group-title="SPORT",ASSP 5
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFCu1k4I6pjReV63rv0y56fw/ts
+#EXTINF:-1 xui-id="11616" tvg-id="" tvg-name="LIVE EVENT 5" tvg-logo="http://corner-tv.web.id:8080/images/cdb8dc415f149d5d5b55696d1999888b.png" group-title="Live Event",LIVE EVENT 5
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFD-tX3cbHkW-qYA-GjyOR8w/ts
+#EXTINF:-1 xui-id="5789" tvg-id="beinMaxMY.MACAN" tvg-name="Bein Sport Max" tvg-logo="http://corner-tv.web.id:8080/images/1d58fd828eed894b39c500d0c05e4875.png" group-title="SPORT",Bein Sport Max
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFHatoRflUfli4lJYuEF9-6g/ts
+#EXTINF:-1 xui-id="5811" tvg-id="bein1MY.MACAN" tvg-name="Bein Sport (MY)" tvg-logo="http://corner-tv.web.id:8080/images/41cee23dfcd955ee8c3b41d997bacdc5.png" group-title="SPORT",Bein Sport (MY)
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFOd9l3sIJlwgHbRhyy5uuyU/ts
+#EXTINF:-1 xui-id="4761" tvg-id="beINSports1.MACAN" tvg-name="BEIN SPORT 1 ID" tvg-logo="http://corner-tv.web.id:8080/images/cfbd1e68f34d3c17da03fdc10c9c7836.png" group-title="SPORT",BEIN SPORT 1 ID
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFH8hjKBD0YIfphvOUR8q_9Y/ts
+#EXTINF:-1 xui-id="116" tvg-id="beINSports2.MACAN" tvg-name="Bein Sport 3 ID" tvg-logo="http://corner-tv.web.id:8080/images/bfb26f06bb94fd0dfddebf6049bf45f4.png" group-title="SPORT",Bein Sport 3 ID
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFB3rmAZbMEOYS3NH1XjY51U/ts
+#EXTINF:-1 xui-id="4378" tvg-id="" tvg-name="BEIN SPORT 1 EN" tvg-logo="http://corner-tv.web.id:8080/images/bd9b9b5bcae89156e820f8c6372ee006.png" group-title="SPORT",BEIN SPORT 1 EN
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFL-rWiKG0Pmusny3jL7Ru2M/ts
+#EXTINF:-1 xui-id="4379" tvg-id="" tvg-name="BEIN SPORT 2 EN" tvg-logo="http://corner-tv.web.id:8080/images/1d758371887c8fffd36195b325cb0cbd.png" group-title="SPORT",BEIN SPORT 2 EN
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFFEjCembwA2R88eXVEnVJ_E/ts
+#EXTINF:-1 xui-id="4382" tvg-id="" tvg-name="BT SPORT 1" tvg-logo="http://corner-tv.web.id:8080/images/5a1fd3113febe6dbcd2559733555a49a.png" group-title="SPORT",BT SPORT 1
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFHkkUufPgO6Qj5GqyezylV8/ts
+#EXTINF:-1 xui-id="5808" tvg-id="" tvg-name="BT SPORT 2" tvg-logo="http://corner-tv.web.id:8080/images/ed0fa2f1175cc642a4c182f240d3eaa3.png" group-title="SPORT",BT SPORT 2
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFKJWAWUVCbeS5Uw70mlpGcY/ts
+#EXTINF:-1 xui-id="5849" tvg-id="" tvg-name="BT SPORT 3" tvg-logo="http://corner-tv.web.id:8080/images/fd6d7229d6cef187b92584cd26dd6db2.png" group-title="SPORT",BT SPORT 3
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFCuEA8YO6DysYpgEdvs8XU4/ts
+#EXTINF:-1 xui-id="6120" tvg-id="" tvg-name="ELEVEN SPORT 1" tvg-logo="http://corner-tv.web.id:8080/images/159311b11e7b9d1b42838fd0458474dd.png" group-title="SPORT",ELEVEN SPORT 1
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFDW1N3wAIMG7Gs8yH7jFt-s/ts
+#EXTINF:-1 xui-id="6121" tvg-id="" tvg-name="ELEVEN SPORT 2" tvg-logo="http://corner-tv.web.id:8080/images/159311b11e7b9d1b42838fd0458474dd.png" group-title="SPORT",ELEVEN SPORT 2
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFOkdbnq1TNIfyCcH4aswbVU/ts
+#EXTINF:-1 xui-id="11624" tvg-id="" tvg-name="ELEVEN SPORT 3" tvg-logo="" group-title="SPORT",ELEVEN SPORT 3
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFGaaoLKI_fkYvcIurj9eU7Q/ts
+#EXTINF:-1 xui-id="11625" tvg-id="" tvg-name="ELEVEN SPORT 4" tvg-logo="" group-title="SPORT",ELEVEN SPORT 4
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFP05HArd4uHjIFafOPViviM/ts
+#EXTINF:-1 xui-id="11626" tvg-id="" tvg-name="ELEVEN SPORT 5" tvg-logo="" group-title="SPORT",ELEVEN SPORT 5
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFFNi78bgs06ZYbTDPPY0z1o/ts
+#EXTINF:-1 xui-id="11627" tvg-id="" tvg-name="ELEVEN SPORT 6" tvg-logo="" group-title="SPORT",ELEVEN SPORT 6
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFLku3sq12Q3oDY7O5z5C7RE/ts
+#EXTINF:-1 xui-id="11628" tvg-id="" tvg-name="EURO SPORT" tvg-logo="http://corner-tv.web.id:8080/images/564790e9af15c8d66dd4e9251b7483f6.png" group-title="SPORT",EURO SPORT
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFP35bGVoo9ezxylW7yDDL14/ts
+#EXTINF:-1 xui-id="12082" tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="http://corner-tv.web.id:8080/images/564790e9af15c8d66dd4e9251b7483f6.png" group-title="SPORT",EUROSPORT 2
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFAm58Jg8K3iD9DnWKWtwPJw/ts
+#EXTINF:-1 xui-id="6002" tvg-id="" tvg-name="ESPN 1" tvg-logo="http://corner-tv.web.id:8080/images/7216a705a7f23d47e2f4082381cce242.png" group-title="SPORT",ESPN 1
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFKcMQ9LnRMaQXAri7MQKTw8/ts
+#EXTINF:-1 xui-id="6003" tvg-id="" tvg-name="ESPN 2" tvg-logo="http://corner-tv.web.id:8080/images/506b1ec7bbd131d888954146cf7aa5ce.png" group-title="SPORT",ESPN 2
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFMmrhJt8aSL5ilNIF2mf8-Q/ts
+#EXTINF:-1 xui-id="6014" tvg-id="" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/dp1kWZc/SGN-04-24-2022-1650782924570.png" group-title="SPORT",ESPN 3
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFGgj_zGncBBkjAYSfc8WHog/ts
+#EXTINF:-1 xui-id="6015" tvg-id="" tvg-name="ESPN 4" tvg-logo="http://corner-tv.web.id:8080/images/54771365be7fb33d73e4a017c830ebd3.png" group-title="SPORT",ESPN 4
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFLgLHZRxsNyKuljVqkkApxE/ts
+#EXTINF:-1 xui-id="388" tvg-id="FightSports.MACAN" tvg-name="FIGHT SPORT" tvg-logo="http://corner-tv.web.id:8080/images/bd6d5c7d9d48d87515812147a55d0c91.png" group-title="SPORT",FIGHT SPORT
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFMfWGZHV3Dw_89WNZs36E5g/ts
+#EXTINF:-1 xui-id="4407" tvg-id="NBATV.id" tvg-name="NBA" tvg-logo="http://corner-tv.web.id:8080/images/236c9404a253323c8cbef470ee0d7c2d.png" group-title="SPORT",NBA
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFGiO6R_SYjmH1wYnVuAhx4E/ts
+#EXTINF:-1 xui-id="387" tvg-id="NBCGolf.MACAN" tvg-name="NBC GOLF" tvg-logo="http://corner-tv.web.id:8080/images/ce743d105c562cb3b89a9276fd47320f.png" group-title="SPORT",NBC GOLF
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFKxmf6bJpSbJw9Eb6dfnOCo/ts
+#EXTINF:-1 xui-id="5215" tvg-id="" tvg-name="RMC SPORT 1" tvg-logo="http://corner-tv.web.id:8080/images/1fde1f9fccd648f632e393b90469b80d.png" group-title="SPORT",RMC SPORT 1
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFDa2Y-bjMsd_Ch0firvoqSw/ts
+#EXTINF:-1 xui-id="5216" tvg-id="" tvg-name="RMC SPORT 2" tvg-logo="http://corner-tv.web.id:8080/images/12c048157f52ec6c98e42d77450ea01a.png" group-title="SPORT",RMC SPORT 2
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFGGTYq2OIhk0fvqNV47Sv6s/ts
+#EXTINF:-1 xui-id="5217" tvg-id="" tvg-name="RMC SPORT 3" tvg-logo="http://corner-tv.web.id:8080/images/be5aea6e206289a6752a3fbf98646e06.png" group-title="SPORT",RMC SPORT 3
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFN__t2v-5yIGFbJdrvOVsww/ts
+#EXTINF:-1 xui-id="5218" tvg-id="" tvg-name="RMC SPORT 4" tvg-logo="http://corner-tv.web.id:8080/images/615ac5edada4af2004ed58ad9e85ad5b.png" group-title="SPORT",RMC SPORT 4
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFEJP83xg64ro65r8kdEn1B4/ts
+#EXTINF:-1 xui-id="5821" tvg-id="" tvg-name="Sky Sport Arena" tvg-logo="http://corner-tv.web.id:8080/images/8b2b73c41af378ce55b6288fa258a0ed.png" group-title="SPORT",Sky Sport Arena
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFHxA-6MGPTAgONYVPFrsFBY/ts
+#EXTINF:-1 xui-id="8369" tvg-id="" tvg-name="SKY SPORT F1" tvg-logo="http://corner-tv.web.id:8080/images/6e929137ddf50d268fd510aaf08692cc.png" group-title="SPORT",SKY SPORT F1
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFGsi8_WiCPYsrI1pOEK-LBU/ts
+#EXTINF:-1 xui-id="5819" tvg-id="" tvg-name="Sky Sport Premiere League" tvg-logo="http://corner-tv.web.id:8080/images/03296060b37777fcfd3207496f581f2f.png" group-title="SPORT",Sky Sport Premiere League
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFPl3d49yJwPW2PYzRAkIZXM/ts
+#EXTINF:-1 xui-id="4763" tvg-id="" tvg-name="SONY TEN 1" tvg-logo="http://corner-tv.web.id:8080/images/70cbe71e1e3614e7f104bf6061536cdc.png" group-title="SPORT",SONY TEN 1
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFLMThATIKqoxDBpBNNDuIxA/ts
+#EXTINF:-1 xui-id="4764" tvg-id="" tvg-name="SONY TEN 2" tvg-logo="http://corner-tv.web.id:8080/images/bbebdd3f97dc82575467e6f7a9b4a667.png" group-title="SPORT",SONY TEN 2
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFAbvJE6I1NphWkeN7vuf4fI/ts
+#EXTINF:-1 xui-id="4765" tvg-id="" tvg-name="SONY TEN 3" tvg-logo="http://corner-tv.web.id:8080/images/f230405dc6aaea6c8b65dac24270c402.png" group-title="SPORT",SONY TEN 3
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFP-noKCnC729lWxq2bBXnwo/ts
+#EXTINF:-1 xui-id="6117" tvg-id="" tvg-name="SPORT TV 1" tvg-logo="http://corner-tv.web.id:8080/images/226812428a51235eb9987a4ed523a2e7.png" group-title="SPORT",SPORT TV 1
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFFZAvS7RdNaovNNVDfOKt3c/ts
+#EXTINF:-1 xui-id="6118" tvg-id="" tvg-name="SPORT TV 2" tvg-logo="http://corner-tv.web.id:8080/images/226812428a51235eb9987a4ed523a2e7.png" group-title="SPORT",SPORT TV 2
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFIKeG_r_ufpNAMu9HaLqfpw/ts
+#EXTINF:-1 xui-id="6119" tvg-id="" tvg-name="SPORT TV 3" tvg-logo="http://corner-tv.web.id:8080/images/226812428a51235eb9987a4ed523a2e7.png" group-title="SPORT",SPORT TV 3
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFFyd0doNRyXX_rfPeD6hD4A/ts
+#EXTINF:-1 xui-id="12081" tvg-id="" tvg-name="SPORT TV 4" tvg-logo="http://corner-tv.web.id:8080/images/226812428a51235eb9987a4ed523a2e7.png" group-title="SPORT",SPORT TV 4
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFFDTC0cv5QsinOlp3qq1NCk/ts
+#EXTINF:-1 xui-id="12080" tvg-id="" tvg-name="SPORT TV 5" tvg-logo="http://corner-tv.web.id:8080/images/226812428a51235eb9987a4ed523a2e7.png" group-title="SPORT",SPORT TV 5
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFCfRm6kvtplO4ox9dxNmByY/ts
+#EXTINF:-1 xui-id="4403" tvg-id="SPOTV.MACAN" tvg-name="SPOTV" tvg-logo="http://corner-tv.web.id:8080/images/e4efc55d21ce2e2a5cdb16e81664de12.png" group-title="SPORT",SPOTV
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFNxxpzJwnWsMdSVpAxLZXME/ts
+#EXTINF:-1 xui-id="4392" tvg-id="" tvg-name="SPOTV 2" tvg-logo="http://corner-tv.web.id:8080/images/e4efc55d21ce2e2a5cdb16e81664de12.png" group-title="SPORT",SPOTV 2
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFMiPbczkSA_V64hb02Us6to/ts
+#EXTINF:-1 xui-id="6150" tvg-id="RTM Sports" tvg-name="SUKAN RTM" tvg-logo="http://corner-tv.web.id:8080/images/6f6d6826588b81c3fe0d9a668aec6523.png" group-title="SPORT",SUKAN RTM
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFJh2kl7mIr4KDN9b71SnQvE/ts
+#EXTINF:-1 xui-id="4370" tvg-id="" tvg-name="SUPER SPORT : FOOTBALL" tvg-logo="http://corner-tv.web.id:8080/images/60e9ab6ee047243e33de5a534eb4550f.png" group-title="SPORT",SUPER SPORT : FOOTBALL
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFCuXBLrrKF4zaCmIzMa6d3U/ts
+#EXTINF:-1 xui-id="4368" tvg-id="" tvg-name="SUPER SPORT : PREMIERE LEAGUE" tvg-logo="http://corner-tv.web.id:8080/images/8bdd3428b95cf31dff1a90a8f75d3f46.png" group-title="SPORT",SUPER SPORT : PREMIERE LEAGUE
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFF8uWSbek0ATVGIjFp8FXP0/ts
+#EXTINF:-1 xui-id="4450" tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="http://corner-tv.web.id:8080/images/828b4e16a77c4bdeac15d1077fd89bb0.png" group-title="SPORT",TENNIS CHANNEL
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFNQYsNO-2AGV9hDAZy95g8k/ts
+#EXTINF:-1 xui-id="4395" tvg-id="" tvg-name="TVRI SPORT" tvg-logo="http://corner-tv.web.id:8080/images/347437f92b036d2ddc91ab2363ab712f.png" group-title="SPORT",TVRI SPORT
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFJMoyY9N3PeKHRt1rklSRlc/ts
+#EXTINF:-1 xui-id="6142" tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="http://corner-tv.web.id:8080/images/fa8c74ed8d5ab10cd46499fe64f2760b.png" group-title="SPORT",UFC FIGHT PASS
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFAKBDO-aq2_b075uPeFXb-Y/ts
+#EXTINF:-1 xui-id="5848" tvg-id="" tvg-name="USA Network" tvg-logo="http://corner-tv.web.id:8080/images/98e9c39ceb7e5f7a44b64c2f5a8497fe.png" group-title="SPORT",USA Network
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFEmy9OM8snz3d65ZP-a_XwY/ts
+#EXTINF:-1 xui-id="4402" tvg-id="UseeSports.MACAN" tvg-name="Usee Sport 1" tvg-logo="http://corner-tv.web.id:8080/images/cc90fc3672c575d5979c006f6522bafa.png" group-title="SPORT",Usee Sport 1
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFPZfSF3Rg69bXZqCjTBzhS0/ts
+#EXTINF:-1 xui-id="383" tvg-id="UseeSports2.MACAN" tvg-name="USEE SPORT 2" tvg-logo="http://corner-tv.web.id:8080/images/1bdaa462a798e91e6361c9de13c6418f.png" group-title="SPORT",USEE SPORT 2
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFB27n8axX8JFqZ-iBRNoTPw/ts
+#EXTINF:-1 xui-id="109" tvg-id="WWE" tvg-name="WWE" tvg-logo="http://corner-tv.web.id:8080/images/b8d46d8755f092f7d383b59b0727a1da.png" group-title="SPORT",WWE
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFKOSkl0YcoDs4fsCt12hCe4/ts
+#EXTINF:-1 xui-id="5847" tvg-id="" tvg-name="Ziggo Sport Select" tvg-logo="http://corner-tv.web.id:8080/images/57d14fced0cb85940dfb9e82de224735.png" group-title="SPORT",Ziggo Sport Select
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFMoQvv8r8Eu61oZ2DeCkDYs/ts
+#EXTINF:-1 xui-id="6115" tvg-id="" tvg-name="Ziggo Sport Voetball" tvg-logo="http://corner-tv.web.id:8080/images/03d5ea5537ad8b9218363abe28f1f245.png" group-title="SPORT",Ziggo Sport Voetball
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFAyLHZ62-8moGM707yTITaI/ts
+#EXTINF:-1 xui-id="10790" tvg-id="" tvg-name="Ta Daa" tvg-logo="http://corner-tv.web.id:8080/images/957986b39dd3e9962bd63aa1cf35469e.png" group-title="KIDS",Ta Daa
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFFb07X7iOORqxKD8Z2WL0xs/ts
+#EXTINF:-1 xui-id="10792" tvg-id="" tvg-name="ABO Thangathirai" tvg-logo="http://corner-tv.web.id:8080/images/d086b708c1e879b6725e435ac9dbbe4c.png" group-title="INDIA",ABO Thangathirai
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFJLagygwpUfh0tencyJAal0/ts
+#EXTINF:-1 xui-id="10794" tvg-id="" tvg-name="Vaanavil" tvg-logo="http://corner-tv.web.id:8080/images/37452f60e1595a485248fd23102f4cb7.png" group-title="INDIA",Vaanavil
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFOk3QINx3cVZLRx3JYsDk04/ts
+#EXTINF:-1 xui-id="11619" tvg-id="" tvg-name="ROBOCAR POLI" tvg-logo="http://corner-tv.web.id:8080/images/f13db3c9b18fc695551f853e848d9ede.png" group-title="24/7",ROBOCAR POLI
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFA0ylU7IX01ButVyOcxVjYU/ts
+#EXTINF:-1 xui-id="11620" tvg-id="" tvg-name="BEST OF TOM & JERRY" tvg-logo="http://corner-tv.web.id:8080/images/9eee1ddf3af8f53a3e1224e91d7bd00c.png" group-title="24/7",BEST OF TOM & JERRY
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFKvH7sukhhId2OBMPGjgsWc/ts
+#EXTINF:-1 xui-id="11621" tvg-id="" tvg-name="SUPER JOJO" tvg-logo="" group-title="24/7",SUPER JOJO
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFHEXGcZdqB94aI27vAWmyzM/ts
+#EXTINF:-1 xui-id="11622" tvg-id="" tvg-name="PETUALANGAN TATTY & MISIFU" tvg-logo="" group-title="24/7",PETUALANGAN TATTY & MISIFU
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFC5fcHCgZU9BNuDBTKLQGRY/ts
+#EXTINF:-1 xui-id="11623" tvg-id="" tvg-name="AQUARIUM LIVE" tvg-logo="http://corner-tv.web.id:8080/images/2f3652c28729602fd8e7ed5aad4d4056.png" group-title="24/7",AQUARIUM LIVE
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFFO_HsHj2NHCPMcQ4p47i5k/ts
+#EXTINF:-1 xui-id="12083" tvg-id="" tvg-name="VINMEEN" tvg-logo="http://corner-tv.web.id:8080/images/48dae4f586ca9f1d396b1fa41bce8e7f.png" group-title="INDIA",VINMEEN
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFG46F448LDS2sOj_HGalots/ts
+#EXTINF:-1 xui-id="12084" tvg-id="" tvg-name="AEC" tvg-logo="http://corner-tv.web.id:8080/images/de34749a3cefd9345351babd314a9e0c.png" group-title="CHINA/TAIWAN",AEC
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFDgtu5_ePTJXcmv8Ctq6bOA/ts
+#EXTINF:-1 xui-id="12085" tvg-id="" tvg-name="HUA HEE TAI" tvg-logo="http://corner-tv.web.id:8080/images/486fe68d3cde06cfc6e4b418fb96ba85.png" group-title="CHINA/TAIWAN",HUA HEE TAI
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFA6HF54B781FK8yDwd-TSas/ts
+#EXTINF:-1 xui-id="12086" tvg-id="" tvg-name="TV6" tvg-logo="http://corner-tv.web.id:8080/images/9fc7d2184c1a8f00fbede2b66e653425.png" group-title="MALAYSIA",TV6
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFLwYbQEj7LE_YTPaMHvwhSE/ts
+#EXTINF:-1 xui-id="12087" tvg-id="" tvg-name="ASTRO FIRST 474 - BELABAN HIDUP" tvg-logo="http://corner-tv.web.id:8080/images/dcb533dcc361898840a2f9dfa5858189.png" group-title="ASTRO FIRST",ASTRO FIRST 474 - BELABAN HIDUP
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFIsQZmJWzO4D2QRBNtMsSgk/ts
+#EXTINF:-1 xui-id="12088" tvg-id="" tvg-name="ASTRO FIRST 474 - SERANGAN POCONG" tvg-logo="http://corner-tv.web.id:8080/images/dcb533dcc361898840a2f9dfa5858189.png" group-title="ASTRO FIRST",ASTRO FIRST 474 - SERANGAN POCONG
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFEjWKphR7e7PEG5duqrytLM/ts
+#EXTINF:-1 xui-id="12089" tvg-id="" tvg-name="ASTRO FIRST 475 - PENUNGGANG AGAMA 2" tvg-logo="http://corner-tv.web.id:8080/images/dcb533dcc361898840a2f9dfa5858189.png" group-title="ASTRO FIRST",ASTRO FIRST 475 - PENUNGGANG AGAMA 2
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFBzQtC4zXd1KZSByErdrK-4/ts
+#EXTINF:-1 xui-id="12090" tvg-id="" tvg-name="ASTRO FIRST 475 - JAGA JAGA SENARIOUNION" tvg-logo="http://corner-tv.web.id:8080/images/dcb533dcc361898840a2f9dfa5858189.png" group-title="ASTRO FIRST",ASTRO FIRST 475 - JAGA JAGA SENARIOUNION
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFH66imgoFJbhsVP7ytMwHJA/ts
+#EXTINF:-1 xui-id="12092" tvg-id="" tvg-name="ASTRO FIRST 476 - HANTU KE LIMA" tvg-logo="http://corner-tv.web.id:8080/images/dcb533dcc361898840a2f9dfa5858189.png" group-title="ASTRO FIRST",ASTRO FIRST 476 - HANTU KE LIMA
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFNF8M5WBiUJkKAyte0CPxP4/ts
+#EXTINF:-1 xui-id="12093" tvg-id="" tvg-name="ASTRO FIRST 476 - GILA GUSTI" tvg-logo="http://corner-tv.web.id:8080/images/dcb533dcc361898840a2f9dfa5858189.png" group-title="ASTRO FIRST",ASTRO FIRST 476 - GILA GUSTI
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFAILTsr9Ln9VHsD6bGWexRc/ts
+#EXTINF:-1 xui-id="12094" tvg-id="" tvg-name="ASTRO FIRST 477 - 3 JANDA MELAWAN DUNIA" tvg-logo="http://corner-tv.web.id:8080/images/dcb533dcc361898840a2f9dfa5858189.png" group-title="ASTRO FIRST",ASTRO FIRST 477 - 3 JANDA MELAWAN DUNIA
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFEJLSFE3LY9hx3XYRzC00tg/ts
+#EXTINF:-1 xui-id="12095" tvg-id="" tvg-name="ASTRO FIRST 477 - KG PISANG BERBUAH 2 KALI" tvg-logo="http://corner-tv.web.id:8080/images/dcb533dcc361898840a2f9dfa5858189.png" group-title="ASTRO FIRST",ASTRO FIRST 477 - KG PISANG BERBUAH 2 KALI
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFIel5_iyDnJs398N3-Ct1Mw/ts
+#EXTINF:-1 xui-id="12096" tvg-id="" tvg-name="ASTRO FIRST 477 - SIAPA TUTUP LAMPU" tvg-logo="http://corner-tv.web.id:8080/images/dcb533dcc361898840a2f9dfa5858189.png" group-title="ASTRO FIRST",ASTRO FIRST 477 - SIAPA TUTUP LAMPU
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFI-xH5znc9ViYlYt_gCw4pQ/ts
+#EXTINF:-1 xui-id="12097" tvg-id="" tvg-name="ASTRO FIRST 479 - HANTU KUAT KETAWA" tvg-logo="http://corner-tv.web.id:8080/images/dcb533dcc361898840a2f9dfa5858189.png" group-title="ASTRO FIRST",ASTRO FIRST 479 - HANTU KUAT KETAWA
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFA9j04qTIAZRr11r1Dde8nY/ts
+#EXTINF:-1 xui-id="12098" tvg-id="" tvg-name="ASTRO FIRST 479 - HANTU MOK JOH" tvg-logo="http://corner-tv.web.id:8080/images/dcb533dcc361898840a2f9dfa5858189.png" group-title="ASTRO FIRST",ASTRO FIRST 479 - HANTU MOK JOH
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFCFsfsNgjgZovL8JQbf7Muw/ts
+#EXTINF:-1 xui-id="12099" tvg-id="" tvg-name="ASTRO FIRST 480 - ROMPAK" tvg-logo="http://corner-tv.web.id:8080/images/dcb533dcc361898840a2f9dfa5858189.png" group-title="ASTRO FIRST",ASTRO FIRST 480 - ROMPAK
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFBcgNyhBm3BR4whanrQy1Oc/ts
+#EXTINF:-1 xui-id="12283" tvg-id="" tvg-name="CCTV 4" tvg-logo="http://corner-tv.web.id:8080/images/f6349a6a4d531d0dee7890e3faf0fa0e.png" group-title="CHINA/TAIWAN",CCTV 4
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFIvXRZ91CftQYnpU4pErs9U/ts
+#EXTINF:-1 xui-id="12284" tvg-id="" tvg-name="PANDA" tvg-logo="" group-title="24/7",PANDA
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFLKieAy41BnMj4rQyy77cMA/ts
+#EXTINF:-1 xui-id="12285" tvg-id="" tvg-name="TOKYO SHINJUKU LIVE" tvg-logo="" group-title="24/7",TOKYO SHINJUKU LIVE
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFL9wHyXh7lwAWJjE2Ywz6OM/ts
+#EXTINF:-1 xui-id="12286" tvg-id="" tvg-name="TOKYO WALK" tvg-logo="" group-title="24/7",TOKYO WALK
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFDh1S6ndlADG1aZ3kOfgBRw/ts
+#EXTINF:-1 xui-id="12287" tvg-id="" tvg-name="LIVE CAM SEOUL" tvg-logo="" group-title="24/7",LIVE CAM SEOUL
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFFb-MdByS6h9v2L6n3oEd0w/ts
+#EXTINF:-1 xui-id="12289" tvg-id="" tvg-name="MADINAH TODAY" tvg-logo="" group-title="24/7",MADINAH TODAY
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFGduLXNs4Ovbo8CTU3kyOWw/ts
+#EXTINF:-1 xui-id="12290" tvg-id="" tvg-name="SHALAWAT DJIBRIL" tvg-logo="http://corner-tv.web.id:8080/images/f04c638f6a00a6faf458e06ae5fc066d.png" group-title="RELIGI",SHALAWAT DJIBRIL
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFJP-1xQDupTHP_-tOukaDpk/ts
+#EXTINF:-1 xui-id="12291" tvg-id="" tvg-name="DZIKIR MUSTAJAB" tvg-logo="http://corner-tv.web.id:8080/images/f04c638f6a00a6faf458e06ae5fc066d.png" group-title="RELIGI",DZIKIR MUSTAJAB
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFC0dbzlrFI6IRFbEboj_sUQ/ts
+#EXTINF:-1 xui-id="12292" tvg-id="" tvg-name="DZIKIR PAGI HARI" tvg-logo="http://corner-tv.web.id:8080/images/f04c638f6a00a6faf458e06ae5fc066d.png" group-title="RELIGI",DZIKIR PAGI HARI
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFALpIhPdhLUx5wii8gXO5XE/ts
+#EXTINF:-1 xui-id="12293" tvg-id="" tvg-name="DZIKIR PENYEMBUH" tvg-logo="http://corner-tv.web.id:8080/images/f04c638f6a00a6faf458e06ae5fc066d.png" group-title="RELIGI",DZIKIR PENYEMBUH
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFAb72QJqVb-AKD1FsqrXX9Q/ts
+#EXTINF:-1 xui-id="12294" tvg-id="" tvg-name="CTV NEWS" tvg-logo="https://i.ibb.co/bXV6RpD/SGN-05-03-2022-1651583281567.png" group-title="CHINA/TAIWAN",CTV NEWS
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFJ-v3-cngLVAGLSG3AM6RqI/ts
+#EXTINF:-1 xui-id="12295" tvg-id="" tvg-name="CTI" tvg-logo="http://corner-tv.web.id:8080/images/ba31d544231773a4b320ef01176a68f8.png" group-title="CHINA/TAIWAN",CTI
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFBc_G0sNArrMkPprma05Pw8/ts
+#EXTINF:-1 xui-id="12296" tvg-id="" tvg-name="TVBS" tvg-logo="" group-title="CHINA/TAIWAN",TVBS
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFMqljAX9pnQ4szf9Ng_jdyo/ts
+#EXTINF:-1 xui-id="12297" tvg-id="" tvg-name="ELTA SPORTS" tvg-logo="" group-title="CHINA/TAIWAN",ELTA SPORTS
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFHsW3Gbg4vxGqSOytZufp3M/ts
+#EXTINF:-1 xui-id="12298" tvg-id="" tvg-name="FTV DRAMA 1" tvg-logo="" group-title="CHINA/TAIWAN",FTV DRAMA 1
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFJsZvcS4aoZudNx-HiY8Nvs/ts
+#EXTINF:-1 xui-id="12299" tvg-id="" tvg-name="FTV DRAMA 2" tvg-logo="" group-title="CHINA/TAIWAN",FTV DRAMA 2
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFNno3XffNgjX23Tiw-_sC6g/ts
+#EXTINF:-1 xui-id="12300" tvg-id="" tvg-name="FTV DRAMA 3" tvg-logo="" group-title="CHINA/TAIWAN",FTV DRAMA 3
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFJ0IcPtMOC0pW78mblxqxFU/ts
+#EXTINF:-1 xui-id="12301" tvg-id="" tvg-name="FORMOSA LIVE NEWS" tvg-logo="" group-title="CHINA/TAIWAN",FORMOSA LIVE NEWS
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFHCzOofiKsU7vevPRovYZbc/ts
+#EXTINF:-1 xui-id="12302" tvg-id="" tvg-name="SET i NEWS" tvg-logo="http://corner-tv.web.id:8080/images/ceb89a397c300de06ccb7608101bd448.png" group-title="CHINA/TAIWAN",SET i NEWS
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFBDUUthW87u708IE6sx4LAI/ts
+#EXTINF:-1 xui-id="12303" tvg-id="" tvg-name="TTV LIVE NEWS" tvg-logo="http://corner-tv.web.id:8080/images/f8a50239b6b16783f5de1f9d34425c9e.png" group-title="CHINA/TAIWAN",TTV LIVE NEWS
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFB10sinYbSqtqZVam3bb44M/ts
+#EXTINF:-1 xui-id="12638" tvg-id="" tvg-name="FRANCE 24" tvg-logo="" group-title="NEWS INTERNATIONAL",FRANCE 24
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFH1QDq3-_1GlGO9ti5BlJdM/ts
+#EXTINF:-1 xui-id="12963" tvg-id="" tvg-name="24/7 Big Hero 6 The Series" tvg-logo="http://corner-tv.web.id:8080/images/57e4569459c15035ba873b8d49fddbd5.png" group-title="24/7",24/7 Big Hero 6 The Series
+http://corner-tv.web.id:8080/play/QTrs1u0eAMbygdrJb4xIFABD83F809nukV3LAu1ciGk/ts
